@@ -1,7 +1,7 @@
 {
-  "name": "jarvis-ddos-bot",
-  "version": "1.0.0",
-  "description": "Discord DDoS Bot for Railway",
+  "name": "jarvis-c2-master",
+  "version": "3.0.0",
+  "description": "Master Control Bot for Distributed Attack",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
